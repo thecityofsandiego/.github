@@ -1,6 +1,6 @@
 Community engagement throughout the city reinforced the need to adhere to the values San Diegans say matter the most.
 
-**Togetherness:** San Diego values community and takes pride in its neighborhoods and military.
+ - **1. Togetherness:** San Diego values community and takes pride in its neighborhoods and military.
 
 ### Diversity
 San Diego values the diversity of its citizens (and their cultures) and our landscapes.
