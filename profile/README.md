@@ -1,4 +1,4 @@
-## [sandiego.gov](https://sandiego.gov)
+## [www.sandiego.gov](https://www.sandiego.gov)
 
 Community engagement throughout the city reinforced the need to adhere to the values San Diegans say matter the most.
 
