@@ -1,12 +1,13 @@
-## Hi there 👋
+Community engagement throughout the city reinforced the need to adhere to the values San Diegans say matter the most.
 
-<!--
+# 1 Togetherness
+San Diego values community and takes pride in its neighborhoods and military.
 
-**Here are some ideas to get you started:**
+# 2 Diversity
+San Diego values the diversity of its citizens (and their cultures) and our landscapes.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 3 Adventures
+San Diego values outdoor living, the communities that come with it.
+
+# 4 Singular Geography
+San Diego’s geography keeps us outside and enables an active lifestyle.
